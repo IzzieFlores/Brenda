@@ -1,0 +1,73 @@
+.titulo{
+    border: 3px solid red;
+    border-radius: 6px;
+    background-color: bisque;
+    font-size: 20px;
+    font-family: cursive;
+    margin: 50px;
+    padding: 20px;
+}
+
+.div1{
+    border: 3px solid red;
+    border-radius: 6px;
+    background-color: bisque;
+    font-size: 20px;
+    font-family: monospace;
+    padding: 20px;
+}
+
+.div2{
+    border: 3px solid red;
+    border-radius: 6px;
+    background-color: bisque;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+.t2{
+    border: 3px solid red;
+border-radius: 6px;
+background-color: bisque;
+font-size: 20px;
+font-family: monospace;
+padding: 20px;
+}
+
+.t3{
+    border: 3px solid red;
+border-radius: 6px;
+background-color: bisque;
+font-size: 20px;
+font-family: monospace;
+margin: 20px;
+}
+
+.t4{
+    border: 3px solid red;
+border-radius: 6px;
+background-color: bisque;
+font-size: 20px;
+font-family: monospace;
+padding: 20px;
+}
+
+.t5{
+    border: 3px solid red;
+border-radius: 6px;
+background-color: bisque;
+font-size: 20px;
+font-family: monospace;
+margin: 20px;
+padding: 20px;
+}
+
+.t6{
+    border: 3px solid red;
+border-radius: 6px;
+background-color: bisque;
+font-size: 20px;
+font-family: monospace;
+padding: 20px;
+}

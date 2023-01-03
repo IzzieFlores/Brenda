@@ -1,0 +1,30 @@
+.body{
+    border: 2px dashed black;
+    border-radius: 6px;
+    padding: 25px;
+    background-color: bisque;
+}
+
+h1{
+    color: cadetblue;
+    font-size: 30px;
+    font-family: monospace;
+}
+
+.campo{
+    color: blue;
+    font-size: 20px;
+    font-family: cursive;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+
+.tab{
+    padding-left: 20px;
+}
+
+.autor{
+    color: black;
+    font-size: 10px;
+    font-family: sans-serif;
+}

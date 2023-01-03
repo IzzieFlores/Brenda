@@ -1,0 +1,64 @@
+.body{
+    background-color: cornsilk;
+    border: 2px dashed black;
+    border-radius: 6px;
+    padding: 50px;
+    margin: 15px;
+}
+
+.titulo{
+    border-radius: 6px;
+    background-color: khaki;
+    color: red;
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+
+div{
+    border-radius: 6px;
+    background-color: darkseagreen;
+    font-size: 15px;
+    font-family: cursive;
+    color: blue;
+    margin: 20px;
+}
+
+.iii{
+    color: black;
+    font-size: 15px;
+}
+
+.mmm{
+    color: cornflowerblue;
+    font-size: 15px;
+}
+
+.pap{
+    border-radius: 12px;
+    background-color: rgb(247, 209, 162);
+    font-size: 13px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    margin: 20px;
+}
+
+.ttt{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkmagenta;
+}
+
+.lll{
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: darkgreen;
+}
+
+.yyy{
+    font-size: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
